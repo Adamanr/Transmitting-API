@@ -1,0 +1,9 @@
+{
+  ClientPhone string json:"client"
+  ChatId      int    json:"chatId"
+  Message     string json:"message"
+  MessageId   int    json:"messageId"
+  FileURL     string json:"fileURL"
+  FileName    string json:"fileName"
+  FileType    string json:"fileType"
+}
